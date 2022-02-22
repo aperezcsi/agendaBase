@@ -47,11 +47,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aperezc\\Desktop\\Agenda\\SiesaDirectory\\SiesaDirectory\\SiesaDirectory.csproj",
+      "projectUniqueName": "C:\\Users\\aperezc\\Documents\\GitHub\\agendaBase\\SiesaDirectory\\SiesaDirectory.csproj",
       "projectName": "SiesaDirectory",
-      "projectPath": "C:\\Users\\aperezc\\Desktop\\Agenda\\SiesaDirectory\\SiesaDirectory\\SiesaDirectory.csproj",
+      "projectPath": "C:\\Users\\aperezc\\Documents\\GitHub\\agendaBase\\SiesaDirectory\\SiesaDirectory.csproj",
       "packagesPath": "C:\\Users\\aperezc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aperezc\\Desktop\\Agenda\\SiesaDirectory\\SiesaDirectory\\obj\\",
+      "outputPath": "C:\\Users\\aperezc\\Documents\\GitHub\\agendaBase\\SiesaDirectory\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aperezc\\AppData\\Roaming\\NuGet\\NuGet.Config",

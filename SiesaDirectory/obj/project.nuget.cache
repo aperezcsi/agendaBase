@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IsSYxTw8FvqIgC6kCz2kylfdVylQFqQKSOBPQcxGByOW6fpfTPsmv85uctPTLqJx//t0+THebuxRGke+8SKQtw==",
+  "dgSpecHash": "NRivae0aKJSlNJQcS0usvDFlVVQdd+DjiX9MM4q+nxZ093oazJ/RJGD+DLH5LsIEUARITPUfe1L0Av1WsYwraA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aperezc\\Desktop\\Agenda\\SiesaDirectory\\SiesaDirectory\\SiesaDirectory.csproj",
+  "projectFilePath": "C:\\Users\\aperezc\\Documents\\GitHub\\agendaBase\\SiesaDirectory\\SiesaDirectory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aperezc\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512"
   ],

@@ -84,17 +84,8 @@ namespace SiesaMenu
                                 case (int)Options.searchContact:
 
                                     nameContact();
-                                    FluentValidation.Results.ValidationResult resultsname = validator.Validate(nameC);
-                                    if (!resultsname.IsValid)
-                                        {
-                                            foreach (var failure in resultsname.Errors)
-                                            {
-                                                Console.WriteLine(failure.ErrorMessage + " Intente de nuevo");
-                                            }
-                                        }
-                                        else{
-                                                directory.FindContact(name);
-                                        }
+                                    contact = new Contact(name, null, null);
+                                    directory.FindContact(name);
                                     break;
 
                                 case (int)Options.existContact:
